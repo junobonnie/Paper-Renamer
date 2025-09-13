@@ -16,6 +16,7 @@ from CTkToolTip import *
 from tkinter import filedialog
 from PIL import Image
 import webbrowser
+import winsound
 from random import randint
 
 RED = "#a31f5f"
@@ -279,6 +280,7 @@ def download_complete_popup():
     new_popup.grab_set()
     label = ctk.CTkLabel(new_popup, text="Complete!")
     label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
+    winsound.MessageBeep()
     
 def open_github():
     github_url = "https://github.com/junobonnie/Paper-Renamer"  # 이동할 GitHub 페이지 URL
