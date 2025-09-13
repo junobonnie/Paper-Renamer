@@ -281,7 +281,7 @@ def download_complete_popup():
     label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
     
 def open_github():
-    github_url = "https://github.com/junobonnie/chzzk_pay_amount_calculator"  # 이동할 GitHub 페이지 URL
+    github_url = "https://github.com/junobonnie/Paper-Renamer"  # 이동할 GitHub 페이지 URL
     webbrowser.open(github_url)  
 
 def log(message):
