@@ -10,7 +10,7 @@ It supports arXiv papers, extracts metadata, and helps you organize your PDF lib
 
 
 ### Example
-<img width="25%" alt="image" src="https://github.com/user-attachments/assets/17f2f88c-55e1-4a12-8a3f-54ad37d092e0" />
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/17f2f88c-55e1-4a12-8a3f-54ad37d092e0" />
 
 
 "2409.08956v1.pdf" -> "Discovery Opportunities with Gravitational Waves -- TASI 2024 Lecture Notes - Valerie Domcke.pdf"
